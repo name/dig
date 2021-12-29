@@ -5,3 +5,6 @@ edition = "2021"
 authors = ["Charlie Maddex <charlie@maddex.co>"]
 
 [dependencies]
+predicates = "1.0.0"
+regex = "1.1.6"
+clap = "2.33.0"
