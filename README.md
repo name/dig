@@ -2,7 +2,7 @@
 
 ## Overview
 
-Dig is a command-line tool to search files for string and output this to the console.
+Dig is a command-line tool to search files for a provided string and output the found results.
 
 ## Usage
 
